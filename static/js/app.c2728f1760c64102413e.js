@@ -2566,7 +2566,7 @@ webpackJsonp(
         ).exports,
         fe = a('Dd8w'),
         ve = a.n(fe),
-        me = { API_URL: '/LOASystem/LOASystem/static/api/', dev: !1 },
+        me = { API_URL: '/LOASystem/static/api/', dev: !1 },
         he =
           ((de = v()(
             u.a.mark(function e(t) {
